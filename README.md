@@ -4,7 +4,7 @@ As more companies migrate their developers to ARM based machines, a need arises 
 
 This exploratory project investigates multi-architecture docker builds via GitHub Actions.
 
-Images are pushed to: [this Docker Hub repository](https://hub.docker.com/r/aloutfi/golden-image-buildx)
+Images are pushed to: [this Docker Hub repository](https://hub.docker.com/r/aloutfi/golden-image-buildx/tags)
 
 Resources Utilized:
 
