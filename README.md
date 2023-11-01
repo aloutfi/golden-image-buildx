@@ -1,6 +1,6 @@
 # golden-image-buildx
 
-As more companies migrate their developers to ARM based machines, a need arises for docker images to be compatible with multiple architectures. While intermediary/translation solutions like rosetta exist, there is a significant tradeoff in terms of build speed. 
+As more companies migrate their developers to ARM based machines, a need arises for docker images to be compatible with multiple architectures. While intermediary/translation solutions like rosetta exist, there is a significant tradeoff in terms of build speed and layer caching abilities.
 
 This exploratory project investigates multi-architecture docker builds via GitHub Actions.
 
